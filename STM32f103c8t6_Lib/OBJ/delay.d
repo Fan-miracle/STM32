@@ -10,5 +10,6 @@
 ..\obj\delay.o: ..\USER\stm32f10x.h
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\misc.h

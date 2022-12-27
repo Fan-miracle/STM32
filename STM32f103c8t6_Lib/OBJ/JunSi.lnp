@@ -12,6 +12,7 @@
 "..\obj\stm32f10x_gpio.o"
 "..\obj\stm32f10x_rcc.o"
 "..\obj\stm32f10x_usart.o"
+"..\obj\stm32f10x_tim.o"
 --strict --scatter "..\OBJ\JunSi.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

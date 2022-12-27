@@ -1,3 +1,4 @@
+//#include "stm32f10x_conf.h"					//在此处打开所需要的官方库
 #include "delay.h"
 #include "sys.h"
 #include "usart.h"	

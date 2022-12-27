@@ -10,6 +10,7 @@
 ..\obj\oled.o: ..\USER\stm32f10x.h
 ..\obj\oled.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
 ..\obj\oled.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\oled.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
 ..\obj\oled.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\oled.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\oled.o: D:\Keil-5\ARM\ARMCC\Bin\..\include\stdlib.h
